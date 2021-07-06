@@ -118,14 +118,7 @@ footer{
     margin-left:4%;
     margin-right:4%; 
     padding-left: 20px;   
-    /* border-right-style: solid; */
-}
-#border hr{
-    display: block;
-    width: 50%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border-width: 10px; 
+    
 }
 
 
