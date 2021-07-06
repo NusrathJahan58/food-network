@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .top-banner{
     background-image: url(images/food/Project\ Cover4.png);
@@ -21,7 +22,6 @@ body{
 .half-width h1{
     font-size: 60px;
     color: rgb(41, 37, 37);
-    font-family: Arial, Helvetica, sans-serif;
 }
 .orange{
     color: rgb(231, 106, 60);
@@ -49,7 +49,7 @@ body{
     height: 500px;
 }
 .half-width p{
-    font-weight: 500;
+    font-weight: 400;
     font-size: 18px;
     color: rgb(39, 36, 36);
 }
@@ -64,7 +64,6 @@ body{
 #food-item h1{
     font-size: 40px;
     color: rgb(41, 37, 37);
-    font-family: Arial, Helvetica, sans-serif;
 }
 .one-third{
     width: 40%;
@@ -98,7 +97,6 @@ body{
     padding-left: 20px;   
 }
 .social-item h1{
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
     font-weight: 800;
 }
